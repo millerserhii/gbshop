@@ -234,3 +234,5 @@ fabric.properties
 
 # Built Visual Studio Code Extensions
 *.vsix
+mainapp/.DS_Store
+mainapp/templates/.DS_Store
